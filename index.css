@@ -1,0 +1,61 @@
+body{
+font-family: Arial, Helvetica, sans-serif;
+margin: 0px;
+background-color: antiquewhite;
+}
+
+h2{
+    text-align: left;
+    width: 230px;
+    height: 40px;
+    margin: auto;
+    margin-bottom: 0px;
+    padding: 15px;
+    padding-bottom: 0px;
+    border: 7px solid darkred;
+}
+
+h3{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 0px;
+    border: 7px solid navy;
+
+}
+
+p{
+   text-align: left;
+    font-size: 11pt;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 10px;
+}
+
+ul{
+    font-size: 11pt;
+}
+
+ol{
+    margin-top: 5px;
+    font-size: 11pt;
+}
+
+#main-heading{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 22pt;
+}
+
+#about-me{
+    text-align: left;
+    font-size: 11pt;
+    width: 415px;
+    margin-top: 0px;
+    margin: auto;
+    /*border: 7px solid darkred;*/
+    padding: 5px;
+}
+
+
